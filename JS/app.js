@@ -9,3 +9,6 @@ function test() {
 		hideshow.innerHTML = "hide";
 	}
 }
+function pageRedirect() {
+	window.location.href = "";
+  }
